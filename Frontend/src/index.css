@@ -1,0 +1,43 @@
+.nav-link{
+    margin-left: 40px;
+}
+
+a{ 
+    text-decoration: none;
+}
+
+.footerlink a{
+    color: rgb(112, 112, 112);
+    font-weight: bold;
+    line-height: 2;
+}
+.mediaIcon {
+    display: flex;
+    gap: 20px;
+    font-size: 20px;
+    color: rgb(112, 112, 112);
+}
+
+#supportHero {
+    background-color: #387ed1;
+    color: white;
+}
+#supportHero a{
+    text-decoration: underline;
+    color: white;
+   margin-right: 1rem;
+}
+#supportHero input{
+    padding: 15px 14px;
+    width: 100%;
+    font-size: 17px;
+    border-radius: 4px;
+    border: none;
+}
+
+
+#supportWrapper{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 150px;
+}
